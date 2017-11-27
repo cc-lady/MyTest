@@ -1,0 +1,7 @@
+空白目录
+C:\Users\CC\Desktop\test
+希望删除的目录
+D:\elasticsearch\5.3.0\elasticsearch-5.3.0\elasticsearch-5.3.0\plugins\head\elasticsearch-head-master
+
+robocopy C:\Users\CC\Desktop\test D:\elasticsearch\5.3.0\elasticsearch-5.3.0\elasticsearch-5.3.0\plugins\head\elasticsearch-head-master /purge
+
